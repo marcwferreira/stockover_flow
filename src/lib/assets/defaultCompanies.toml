@@ -1,0 +1,69 @@
+[[companies]]
+id = 1
+symbol = "AAPL"
+name = "Apple Inc."
+type = "Equity"
+value = 148.97
+
+[[companies]]
+id = 2
+symbol = "MSFT"
+name = "Microsoft Corporation"
+type = "Equity"
+value = 301.87
+
+[[companies]]
+id = 3
+symbol = "AMZN"
+name = "Amazon.com Inc."
+type = "Equity"
+value = 3383.87
+
+[[companies]]
+id = 4
+symbol = "IBM"
+name = "IBM Corporation"
+type = "Equity"
+value = 132.52
+
+[[companies]]
+id = 5
+symbol = "META"
+name = "Meta Platforms Inc."
+type = "Equity"
+value = 266.23
+
+[[companies]]
+id = 6
+symbol = "GOOGL"
+name = "Alphabet Inc."
+type = "Equity"
+value = 2734.26
+
+[[companies]]
+id = 7
+symbol = "HPQ"
+name = "HP Inc."
+type = "Equity"
+value = 30.19
+
+[[companies]]
+id = 8
+symbol = "ORCL"
+name = "Oracle Corporation"
+type = "Equity"
+value = 89.45
+
+[[companies]]
+id = 9
+symbol = "INTC"
+name = "Intel Corporation"
+type = "Equity"
+value = 54.76
+
+[[companies]]
+id = 10
+symbol = "TSLA"
+name = "Tesla Inc"
+type = "Equity"
+value = 688.99
